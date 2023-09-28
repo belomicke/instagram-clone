@@ -1,0 +1,40 @@
+:root {
+    --pg-background: rgb(20, 20, 20);
+
+    --primary-background: rgb(40, 40, 40);
+    --primary-background-hover: rgb(50, 50, 50);
+
+    --secondary-background: rgb(30, 30, 30);
+    --secondary-background-hover: rgb(35, 35, 35);
+
+    --border-color: rgb(60, 60, 60);
+    --border-hover-color: rgb(160, 160, 160);
+
+    --primary-green: rgb(30, 180, 110);
+    --primary-green-hover: rgb(40, 190, 120);
+
+    --primary-blue: rgb(0, 150, 245);
+    --primary-blue-hover: rgb(20, 120, 240);
+    --primary-blue-button-down: rgb(10, 110, 230);
+
+    --hover-link: rgb(224, 241, 255);
+
+    --primary-text: rgb(255, 255, 255);
+    --primary-text-hover: rgb(240, 240, 240);
+    --primary-text-non-active: rgb(220, 220, 220);
+    --primary-text-non-active-hover: rgb(240, 240, 240);
+
+    --secondary-text: rgb(160, 160, 160);
+    --secondary-text-hover: rgb(180, 180, 180);
+    --secondary-text-pressed: rgb(200, 200, 200);
+
+    --primary-red: rgb(250, 100, 105);
+    --primary-red-hover: rgb(230, 70, 100);
+
+    --vote-up-color: rgb(0, 185, 100);
+    --vote-down-color: rgb(250, 100, 105);
+    --favorite-post-color: rgb(70, 210, 190);
+
+
+    --modal-background-color: rgba(0, 0, 0, .4);
+}

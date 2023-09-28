@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "esnext",
+        "sourceMap": true,
+        "paths": {
+            "@/*": ["resources/js/src/*"]
+        },
+        "jsx": "react-jsx",
+        "baseUrl": ".",
+      "allowSyntheticDefaultImports": true
+    },
+    "include": ["."],
+    "exclude": [
+        "node_modules"
+    ]
+}

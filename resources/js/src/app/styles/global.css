@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--pg-background);
+    color: var(--primary-text);
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+}
+
+svg {
+    fill: currentColor;
+    transition: color.15s;
+}
+
+svg > * {
+    transition: color.15s;
+}
+
+a {
+    color: var(--primary-green);
+    text-decoration: none;
+    background-color: transparent;
+    transition: .15s;
+}
+
+a:hover {
+    color: var(--primary-green-hover);
+    text-decoration: underline;
+}
+
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+}
